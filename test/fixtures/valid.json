@@ -1,0 +1,8 @@
+[
+  { "address": "1J35jqKXBxXYdAmyvcEaNJwTrAvA39dajM", "type": "pubkeyhash", "network": "mainnet", "hash": "badeecfdef0507247fc8f74241d73bc039972d7b" },
+  { "address": "1VayNert3x1KzbpzMGt2qdqrAThiRovi8", "type": "pubkeyhash", "network": "mainnet", "hash": "0568015a9facccfd09d70d409b6fc1a5546cecc6" },
+  { "address": "342ftSRCvFHfCeFFBuz4xwbeqnDw6BGUey", "type": "scripthash", "network": "mainnet", "hash": "19a7d869032368fd1f1e26e5e73a4ad0e474960e" },
+  { "address": "mvtcsMhy7EnT63ZbFG6S8CFctoC7NY8XWm", "type": "pubkeyhash", "network": "testnet", "hash": "a8a2d273af525252706125d7cab33f1feeac8832" },
+  { "address": "mxDtLLJd8aquF7PRMbeiP5D38Fo6wHc5Ka", "type": "pubkeyhash", "network": "testnet",  "hash": "b73fc2c095cc766ebb942ae27c0509412e6a8a10" },
+  { "address": "2Mstfri3G9Zv44LcMm5WjXEkVWVMXbyW1v5", "type": "scripthash", "network": "testnet", "hash": "0714fc3a2e8c637a2cedbcd614b8baec157bbad3" }
+]
