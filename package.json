@@ -1,5 +1,5 @@
 {
-  "name": "core-address",
+  "name": "satoshi-address",
   "version": "0.0.0",
   "description": "Bitcoin address implementation for NodeJS and browsers",
   "main": "lib/index.js",
@@ -24,6 +24,6 @@
   },
   "dependencies": {
     "buffer": "2.3.0",
-    "core-base58": "git://github.com/coinative/core-base58"
+    "satoshi-base58": "git://github.com/coinative/satoshi-base58"
   }
 }

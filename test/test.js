@@ -5,7 +5,7 @@ var hex = function (hex) { return new Buffer(hex, 'hex'); };
 var validFixtures = require('./fixtures/valid.json');
 var invalidFixtures = require('./fixtures/invalid.json');
 
-describe('core-address', function () {
+describe('satoshi-address', function () {
   it('parseAddress', function () {
     validFixtures.forEach(function (fixture) {
       var address = new Address(fixture.address);
