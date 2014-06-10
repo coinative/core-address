@@ -24,6 +24,6 @@
   },
   "dependencies": {
     "buffer": "2.3.0",
-    "satoshi-base58": "git://github.com/coinative/satoshi-base58"
+    "satoshi-base58": "0.0.2"
   }
 }
