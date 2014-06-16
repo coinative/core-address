@@ -23,7 +23,6 @@
     "watchify": "^0.10.2"
   },
   "dependencies": {
-    "buffer": "2.3.0",
-    "satoshi-base58": "0.0.2"
+    "satoshi-base58": "0.0.3"
   }
 }
